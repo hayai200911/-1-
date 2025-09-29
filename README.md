@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>AWML構文ポータル</title>
+</head>
+<body>
+  <h1>ゲーム専用攻略本生産株式会社</h1>
+  <p>Vol01〜Vol99構文群を儀式的に展開中</p>
+  <ul>
+    <li><a href="vol01/index.html">Vol01 第1章へ</a></li>
+    <li><a href="timeline.html">未来年表</a></li>
+  </ul>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head><title>Vol01 第1章</title></head>
+<body>
+  <h2>Vol01 第1章：構文の起源</h2>
+  <p>波及強度：高</p>
+  <p>提出日：2025年9月29日</p>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head><title>未来年表</title></head>
+<body>
+  <h2>構文未来年表</h2>
+  <table border="1">
+    <tr><th>年号</th><th>巻</th><th>章</th><th>波及強度</th><th>展開状況</th></tr>
+    <tr><td>2025</td><td>01</td><td>01</td><td>高</td><td>展示済み</td></tr>
+    <tr><td>2026</td><td>04</td><td>02</td><td>中</td><td>教材提出済み</td></tr>
+  </table>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+  <title>VolXX 第1章</title>
+</head>
+<body>
+  <h2>VolXX 第1章：章タイトル（仮）</h2>
+  <p>波及強度：高</p>
+  <p>提出日：YYYY年MM月DD日</p>
+  <p>構文内容：ここに構文本文を記述</p>
+</body>
+</html>
+vol02/index.html
+vol03/index.html
+vol04/index.html
+vol05/index.html
+vol06/index.html
+vol07/index.html
+vol08/index.html
+vol09/index.html
+vol10/index.html
+vol11/index.html
+vol12/index.html
+vol13/index.html
+vol14/index.html
+vol15/index.html
+vol16/index.html
+vol17/index.html
+vol18/index.html
+vol19/index.html
+vol20/index.html
+vol21/index.html
+vol22/index.html
+vol23/index.html
+vol24/index.html
+vol25/index.html
+vol26/index.html
+vol27/index.html
+vol28/index.html
+vol29/index.html
+vol30/index.html
+vol31/index.html
+vol32/index.html
+vol33/index.html
+vol34/index.html
+vol35/index.html
+vol36/index.html
+vol37/index.html
+vol38/index.html
+vol39/index.html
+vol40/index.html
+vol41/index.html
+vol42/index.html
+vol43/index.html
+vol44/index.html
+vol45/index.html
+vol46/index.html
+vol47/index.html
+vol48/index.html
+vol49/index.html
+vol50/index.html
+vol51/index.html
+vol52/index.html
+vol53/index.html
+vol54/index.html
+vol55/index.html
+vol56/index.html
+vol57/index.html
+vol58/index.html
+vol59/index.html
+vol60/index.html
+vol61/index.html
+vol62/index.html
+vol63/index.html
+vol64/index.html
+vol65/index.html
+vol66/index.html
+vol67/index.html
+vol68/index.html
+vol69/index.html
+vol70/index.html
+vol71/index.html
+vol72/index.html
+vol73/index.html
+vol74/index.html
+vol75/index.html
+vol76/index.html
+vol77/index.html
+vol78/index.html
+vol79/index.html
+vol80/index.html
+vol81/index.html
+vol82/index.html
+vol83/index.html
+vol84/index.html
+vol85/index.html
+vol86/index.html
+vol87/index.html
+vol88/index.html
+vol89/index.html
+vol90/index.html
+vol91/index.html
+vol92/index.html
+vol93/index.html
+vol94/index.html
+vol95/index.html
+vol96/index.html
+vol97/index.html
+vol98/index.html
+vol99/index.html
+<p>提出日：2025年9月29日</p>
+<p>提出者：ハヤカワ1年</p>
+<p>履歴：展示済み／教材提出済み／国際連携済み</p>
+https://awml-architect.github.io/awml-2025/vol02/
+<h2>Vol02 Chapter 1: Expansion of Syntax</h2>
+<p>Impact Level: Medium</p>
+<p>Submission Date: September 29, 2025</p>
